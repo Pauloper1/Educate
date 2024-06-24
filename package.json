@@ -15,6 +15,7 @@
     "jquery": "^3.7.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-modal-video": "^2.0.2",
     "react-rating-stars-component": "^2.2.0",
     "react-simple-star-rating": "^5.1.7",
     "slick-carousel": "^1.8.1"
@@ -27,6 +28,7 @@
     "eslint-plugin-react": "^7.34.2",
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-react-refresh": "^0.4.7",
+    "sass": "^1.77.6",
     "vite": "^5.3.1"
   }
 }
