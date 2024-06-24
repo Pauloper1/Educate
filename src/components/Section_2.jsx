@@ -1,10 +1,11 @@
 import React from 'react'
+import './base.css'
 function Section_2() {
     return (
         <div className='container my-5'>
             <div class="row">
                 <div class="col-md-6 order-md-1 order-2">
-                    <h2 class="">New Courses</h2>
+                    <h2 class="custom-font custom-text">New Courses</h2>
                 </div>
                 <div class="col-md-6 order-md-2 order-2 text-md-end text-start my-2">
                     <button class="btn btn-primary">EXPLORE COURSES</button>

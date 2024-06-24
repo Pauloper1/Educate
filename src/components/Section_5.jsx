@@ -22,13 +22,13 @@ function Section_5() {
         <div className="container-fluid" style={{backgroundColor: "#fff1ff"}}>
             <div className="container">
                 <div className="container mb-3">
-                    <h1 className='text-center'>What our Students Say</h1>
+                    <h1 className='text-center custom-font pt-3'>What our Students Say</h1>
                 </div>
-                <div className="row">
+                <div className="row mt-4">
                     <div className="col-md-5 col-xs-12">
                         <img src="images/testimonialImage.png" className='img-fluid' alt="" />
                     </div>
-                    <div className="col-md-6 col-xs-12">
+                    <div className="col-md-6 col-xs-12 mt-5">
                         <CarouselCom data={tData} />
 
                     </div>

@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import './CarouselCom.css'
 import StarRating from 'react-simple-star-rating';
+import ReactStars from "react-rating-stars-component";
+
 
 
 function CarouselCom({ data }) {
@@ -38,10 +40,17 @@ function CarouselCom({ data }) {
                         <div className="container">
                             {item.rating && item.rating && (
                                 
-                               <>
-                               
-                               </>
-                                
+                                <>
+                                    <ReactStars
+                                        count={parseInt(item.rating)}
+                                        // onChange={ratingChanged}
+                                        size={24}
+                                        activeColor="#ffd700"
+                                        edit={false}
+                                        ishalf={true}
+                                    />
+                                </>
+
                             )}
                             {/* {console.log(typeof(parseInt(item.rating)))} */}
                         </div>
