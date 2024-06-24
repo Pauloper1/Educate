@@ -25,11 +25,6 @@ function Section_1() {
                         videoId="4h8B080Mv4U"
                         onClose={() => setOpen(false)}
                     />
-                    {/* <button className="btn-primary" >
-                        VIEW DEMO
-                    </button> */}
-
-
                 </div>
             </div>
         </>

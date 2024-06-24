@@ -1,8 +1,9 @@
-# React + Vite
+## Educate Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+It's a frontend assessment.
 
-Currently, two official plugins are available:
+### Tech-Stack
+- React
+- Boostrap
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Demo Video](https://github.com/Pauloper1/Educate/assets/88343134/3b371993-3520-4f35-b119-bf1dca8ea532)
