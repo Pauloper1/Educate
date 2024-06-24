@@ -4,8 +4,8 @@ function Navbar() {
     return (
         <>
             <nav class="navbar navbar-expand-lg bg-body-tertiary">
-                <div class="container-fluid">
-                    <div className="container d-flex justify-content-center">
+                
+                    <div className="container">
                         <a class="navbar-brand" href="#">Educate</a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>
@@ -31,10 +31,12 @@ function Navbar() {
                             {/* <div className="">
                         <button className='btn'>Login</button>
                     </div> */}
+                    <button className="btn btn-outline-primary mx-2">Login</button>
+                    <button className="btn btn-success">Registeration</button>
                         </div>
+
                     </div>
 
-                </div>
             </nav>
 
         </>
