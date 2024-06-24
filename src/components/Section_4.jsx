@@ -1,8 +1,8 @@
 import React from 'react'
 import { useRef, useEffect, useState } from 'react';
 import $, { data } from 'jquery';
-import 'datatables.net';
-import 'datatables.net-dt/css/datatables.datatables.css';
+// import 'datatables.net';
+// import 'datatables.net-dt/css/datatables.datatables.css';
 import { Table } from './Table';
 
 function Section_4() {
