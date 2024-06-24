@@ -13,30 +13,35 @@ function Section_2() {
             </div>
 
             <div className="row">
-                <div className="col-md-6 col-xs-12">
+                <div className="col-md-6 col-xs-12 custom-text mb-3">
                     <img src="\images\focused-students.jpg" alt="" className="img-fluid rounded" />
                     <h4 className='mt-2'>Native Mac Apps in Swift</h4>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, ut!</p>
-                    <div className="rounded-pill border d-inline-block">
-                        {/* <img src="" className='img-fluid' alt="" /> */}
-                        <p style={{marginBottom: 0}}>By Annabelle Portar</p>
+                    <div className="d-inline-flex flex-column">
+                        <div className="rounded-pill border d-inline-flex align-items-center p-2 mb-2">
+                            {/* <img src="" className='img-fluid' alt="" /> */}
+                            <img src="/images/profile.png" className="rounded-circle" width={40} alt="" />
+                            <p style={{ marginBottom: 0 }}>By Annabelle Portar</p>
+                        </div>
+                        <div className="rounded-pill border d-inline-flex align-items-center p-2">
+                            <p style={{ marginBottom: 0 }}>3 Lesson</p>
+                        </div>
                     </div>
-                    <div className="container">
-                        <span></span>
-                        <p>3 Lesson</p>
-                    </div>
+
                 </div>
-                <div className="col-md-6 col-xs-12 custom-text">
+                <div className="col-md-6 col-xs-12 custom-text mb-3">
                     <img src="\images\close-up-students-classroom.jpg" alt="" className="img-fluid rounded" />
                     <h4 className='custom-text mt-2'>Native Mac Apps in Swift</h4>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, ut!</p>
-                    <div className="container">
-                        <img src="" className='img-fluid' alt="" />
-                        <p>By Annabelle Portar</p>
-                    </div>
-                    <div className="container">
-                        <span></span>
-                        <p>3 Lesson</p>
+                    <div className="d-inline-flex flex-column">
+                        <div className="rounded-pill border d-inline-flex align-items-center p-2 mb-2">
+                            {/* <img src="" className='img-fluid' alt="" /> */}
+                            <img src="/images/profile.png" className="rounded-circle" width={40} alt="" />
+                            <p style={{ marginBottom: 0 }}>By Annabelle Portar</p>
+                        </div>
+                        <div className="rounded-pill border d-inline-flex align-items-center p-2">
+                            <p style={{ marginBottom: 0 }}>3 Lesson</p>
+                        </div>
                     </div>
                 </div>
             </div>
