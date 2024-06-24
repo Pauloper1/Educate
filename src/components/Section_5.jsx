@@ -27,7 +27,7 @@ function Section_5() {
                 <div className="row mt-4">
                     <div className="col-md-5 col-xs-12">
                         
-                        <img src="public/images/testimonialImage.png" className='img-fluid' alt="" />
+                        <img src="/images/testimonialImage.png" className='img-fluid' alt="" />
                     </div>
                     <div className="col-md-6 col-xs-12 mt-5">
                         <CarouselCom data={tData} />
