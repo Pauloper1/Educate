@@ -45,9 +45,9 @@ function Section_4() {
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, veniam.</p>
 
                     <div className="col-md-5 col-xs-5 mt-5">
-                        <h5 className=''>World Class</h5>
+                        <h5 className=''><img src="/images/check-mark.png" width={30} alt="" />World Class</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, quisquam!</p>
-                        <h5>Affordable</h5>
+                        <h5> <img src="/images/check-mark.png" width={30} alt="" />Affordable</h5>
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste, quis?</p>
 
                     </div>

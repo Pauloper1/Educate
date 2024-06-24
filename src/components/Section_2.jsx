@@ -24,6 +24,7 @@ function Section_2() {
                             <p style={{ marginBottom: 0 }}>By Annabelle Portar</p>
                         </div>
                         <div className="rounded-pill border d-inline-flex align-items-center p-2">
+                            <img src="/images/lesson.png" className="rounded-circle" width={40} alt="" />
                             <p style={{ marginBottom: 0 }}>3 Lesson</p>
                         </div>
                     </div>
@@ -40,6 +41,7 @@ function Section_2() {
                             <p style={{ marginBottom: 0 }}>By Annabelle Portar</p>
                         </div>
                         <div className="rounded-pill border d-inline-flex align-items-center p-2">
+                            <img src="/images/lesson.png" className="rounded-circle" width={40} alt="" />
                             <p style={{ marginBottom: 0 }}>3 Lesson</p>
                         </div>
                     </div>
