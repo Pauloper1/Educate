@@ -14,7 +14,7 @@ function Section_2() {
 
             <div className="row">
                 <div className="col-md-6 col-xs-12">
-                    <img src="images\focused-students.jpg" alt="" className="img-fluid rounded" />
+                    <img src="public\images\focused-students.jpg" alt="" className="img-fluid rounded" />
                     <h4 className='mt-2'>Native Mac Apps in Swift</h4>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, ut!</p>
                     <div className="rounded-pill border d-inline-block">
@@ -27,7 +27,7 @@ function Section_2() {
                     </div>
                 </div>
                 <div className="col-md-6 col-xs-12 custom-text">
-                    <img src="images\close-up-students-classroom.jpg" alt="" className="img-fluid rounded" />
+                    <img src="public\images\close-up-students-classroom.jpg" alt="" className="img-fluid rounded" />
                     <h4 className='custom-text mt-2'>Native Mac Apps in Swift</h4>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, ut!</p>
                     <div className="container">

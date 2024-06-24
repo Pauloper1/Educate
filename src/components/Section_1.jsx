@@ -10,7 +10,7 @@ function Section_1() {
                         <p className='text-center'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod, exercitationem reiciendis. Quibusdam sequi ipsa corrupti nemo, dicta accusamus nesciunt tenetur.</p>
                         <button className='btn btn-primary my-3'>Start a course</button>
                         <div className="continer">
-                            <img src="images\image1.png" className='img-fluid rounded' alt="" />
+                            <img src="public\images\image1.png" className='img-fluid rounded' alt="" />
                         </div>
                     </div>
 
