@@ -6,7 +6,7 @@ function Section_2() {
                 <div class="col-md-6 order-md-1 order-2">
                     <h2 class="">New Courses</h2>
                 </div>
-                <div class="col-md-6 order-md-2 order-1 text-md-end text-start">
+                <div class="col-md-6 order-md-2 order-2 text-md-end text-start my-2">
                     <button class="btn btn-primary">EXPLORE COURSES</button>
                 </div>
             </div>

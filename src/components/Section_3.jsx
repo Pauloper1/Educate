@@ -2,12 +2,12 @@ import React from 'react'
 import './Section_3.css'
 function Section_3() {
     return (
-        <div className='container-fluid vh-100' style={{backgroundColor: "#fff1ff"}}>
+        <div className='container-fluid vh-100 align-content-center' style={{backgroundColor: "#fff1ff"}}>
             <div className="container">
                 <h2 className='text-center'>How does Educate work?</h2>
             </div>
             <div className="container mb-5">
-                <div className="row">
+                <div className="row align-items-center">
                     <div className="col-2">
                         <div className="circle rounded-circle align-content-center">
                             <h3 className='text-center text-white'>1</h3>
@@ -15,7 +15,7 @@ function Section_3() {
                         <p>Lorem ipsum dolor sit amet.</p>
                     </div>
                     <div className="col-2 ">
-                       
+                        
                     </div>
                     <div className="col-2">
                         <div className="circle rounded-circle align-content-center">
